@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Vamk",
+    "isPublic": true,
+    "address": {
+      "street": "Wolffintie 30",
+      "city": "Vaasa",
+      "zip": "65200"
+    },
+    "departments": [
+      "IT",
+      "Business",
+      "Engineering",
+      "Agriculture",
+      "Agriculture"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Helsingin yliopisto",
+    "isPublic": true,
+    "address": {
+      "street": "Yliopistonkatu 4",
+      "city": "Helsinki",
+      "zip": "00100"
+    },
+    "departments": [
+      "Law",
+      "Medicine",
+      "Computer Science",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Aalto-yliopisto",
+    "isPublic": false,
+    "address": {
+      "street": "Otakaari 1",
+      "city": "Espoo",
+      "zip": "02150"
+    },
+    "departments": [
+      "Engineering",
+      "Business",
+      "Arts"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tampereen yliopisto",
+    "isPublic": true,
+    "address": {
+      "street": "Kalevantie 4",
+      "city": "Tampere",
+      "zip": "33100"
+    },
+    "departments": [
+      "Medicine",
+      "Education",
+      "Social Sciences",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Seinäjoen ammattikorkeakoulu",
+    "isPublic": true,
+    "address": {
+      "street": "Keskuskatu 34",
+      "city": "Seinäjoki",
+      "zip": "60100"
+    },
+    "departments": [
+      "Technology",
+      "Business",
+      "Health Care",
+      "Agriculture"
+    ]
+  }
+]
